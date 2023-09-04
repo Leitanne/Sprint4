@@ -7,7 +7,6 @@
     "test": "jest",
     "lint": "npx eslint",
     "start": "node ./dist/src/infrastructure/server/App.js"
-
   },
   "keywords": [],
   "author": "",
