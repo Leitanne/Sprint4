@@ -11,5 +11,5 @@ Para ejecutar el servidor
 Para ejecutar los test
     npm run test
 
-# COMPROVACIONES EN POSTMAN
+# COMPROBACIONES EN POSTMAN
 En la carpeta "Postman" se pueden encontrar las comprobaciones de la API.
